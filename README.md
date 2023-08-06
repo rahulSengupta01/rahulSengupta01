@@ -1,4 +1,4 @@
-![Uploading robot-handshake-human-background-futuristic-digital-age.jpg…]()
+<img src="https://github.com/rahulSengupta01/rahulSengupta01/assets/133310491/f553bf21-47fc-46b8-9cd8-dc5fb8f6e4d8" width=1120 height=340>
 # 💫 About Me:
 🔭 I’m currently working on : Cloud computing.<br>👯 I’m looking to collaborate on : Cloud and Development based projects.<br>🤝 I’m looking for help with : large projects.<br>🌱 I’m currently learning: Flutter and ML.<br>💬 Ask me about : Technical problem as well as Krishna consciousness.<br>⚡ Fun fact : I am an engineer.
 
